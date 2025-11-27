@@ -1,0 +1,7 @@
+{
+  "name": "Goa Heritage Virtual Guide",
+  "description": "An interactive 3D virtual gallery and AI-powered storytelling guide for Goan heritage sites.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
